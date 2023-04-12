@@ -8,3 +8,5 @@ List of sites/tools that uses ChatGPT
 
 
 * GPT-4-powered web searches for developers - https://www.phind.com/
+
+* An experimental open-source attempt to make GPT-4 fully autonomous.  https://github.com/Torantulino/Auto-GPT
